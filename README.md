@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaghavDeshpande
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning react
-- 📫 How to reach me email
+- 📫 You can reach me on email. :) 
 
 <!---
 RaghavDeshpande/RaghavDeshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
